@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "sylius/sylius": "v2.0.0",
+        "sylius/sylius": "~2.0.0",
         "dompdf/dompdf": "^2.0",
         "sylius/twig-hooks": "^0.5",
         "sylius/twig-extra": "^0.5",
@@ -17,7 +17,7 @@
     },
     "require-dev": {
         "behat/behat": "^3.14",
-        "behat/mink-selenium2-driver": "~1.6.0",
+        "behat/mink-selenium2-driver": "^1.7",
         "bitbag/coding-standard": "^3.0.0",
         "dmore/behat-chrome-extension": "^1.4",
         "friends-of-behat/mink": "^1.11",
